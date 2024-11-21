@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dkrlq.github.io/posts/2014/09/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dkrlq.github.io/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dkrlq.github.io/posts/2024/11/first-post/</loc>
     <lastmod>2024-11-21T10:33:05+01:00</lastmod>
   </url><url>
@@ -18,8 +12,8 @@
     <lastmod>2024-11-21T10:33:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://dkrlq.github.io/fr/"
+                hreflang="se"
+                href="https://dkrlq.github.io/se/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -31,8 +25,8 @@
     <lastmod>2024-11-21T10:33:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://dkrlq.github.io/fr/tags/"
+                hreflang="se"
+                href="https://dkrlq.github.io/se/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -43,34 +37,14 @@
     <loc>https://dkrlq.github.io/tags/untagged/</loc>
     <lastmod>2024-11-21T10:33:05+01:00</lastmod>
   </url><url>
-    <loc>https://dkrlq.github.io/series/hugo-101/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dkrlq.github.io/series/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://dkrlq.github.io/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dkrlq.github.io/series/"
-                />
-  </url><url>
     <loc>https://dkrlq.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dkrlq.github.io/posts/2014/04/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dkrlq.github.io/categories/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://dkrlq.github.io/fr/categories/"
+                hreflang="se"
+                href="https://dkrlq.github.io/se/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -78,31 +52,16 @@
                 href="https://dkrlq.github.io/categories/"
                 />
   </url><url>
-    <loc>https://dkrlq.github.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dkrlq.github.io/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dkrlq.github.io/posts/2014/04/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dkrlq.github.io/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dkrlq.github.io/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dkrlq.github.io/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dkrlq.github.io/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dkrlq.github.io/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dkrlq.github.io/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://dkrlq.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="se"
+                href="https://dkrlq.github.io/se/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dkrlq.github.io/series/"
+                />
   </url>
 </urlset>
