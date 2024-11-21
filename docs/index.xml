@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sajber</title>
-    <link>https://dkrlq.github.io/</link>
+    <link>https://karlquist.nu/</link>
     <description>Recent content on Sajber</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 21 Nov 2024 10:33:05 +0100</lastBuildDate>
-    <atom:link href="https://dkrlq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://karlquist.nu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://dkrlq.github.io/posts/2024/11/first-post/</link>
+      <link>https://karlquist.nu/posts/2024/11/first-post/</link>
       <pubDate>Thu, 21 Nov 2024 10:33:05 +0100</pubDate>
-      <guid>https://dkrlq.github.io/posts/2024/11/first-post/</guid>
+      <guid>https://karlquist.nu/posts/2024/11/first-post/</guid>
       <description>&lt;p&gt;This is the first post.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://dkrlq.github.io/about/</link>
+      <link>https://karlquist.nu/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://dkrlq.github.io/about/</guid>
+      <guid>https://karlquist.nu/about/</guid>
       <description>&lt;p&gt;First off, why I named this blog &amp;lsquo;Sajber&amp;rsquo; is kind of a tribute to a former TV-show that was broadcasted in the late 90&amp;rsquo;s @ SVT in Sweden.&lt;/p&gt;&#xA;&lt;p&gt;The content of the blog will mainly focus on Cybersecurity, but will (probably) occasionally also feature other tech-stuff.&lt;/p&gt;&#xA;&lt;p&gt;This blog is a tool for me to spread knowledge and possibly to rant about stupid cybersecurity-stuff.&lt;/p&gt;</description>
     </item>
   </channel>

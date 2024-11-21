@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Untagged on Sajber</title>
-    <link>https://dkrlq.github.io/tags/untagged/</link>
+    <link>https://karlquist.nu/tags/untagged/</link>
     <description>Recent content in Untagged on Sajber</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 21 Nov 2024 10:33:05 +0100</lastBuildDate>
-    <atom:link href="https://dkrlq.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://karlquist.nu/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://dkrlq.github.io/posts/2024/11/first-post/</link>
+      <link>https://karlquist.nu/posts/2024/11/first-post/</link>
       <pubDate>Thu, 21 Nov 2024 10:33:05 +0100</pubDate>
-      <guid>https://dkrlq.github.io/posts/2024/11/first-post/</guid>
+      <guid>https://karlquist.nu/posts/2024/11/first-post/</guid>
       <description>&lt;p&gt;This is the first post.&lt;/p&gt;</description>
     </item>
   </channel>

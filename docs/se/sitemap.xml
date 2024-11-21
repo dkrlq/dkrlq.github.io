@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dkrlq.github.io/se/categories/</loc>
+    <loc>https://karlquist.nu/se/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dkrlq.github.io/categories/"
+                href="https://karlquist.nu/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="https://dkrlq.github.io/se/categories/"
+                href="https://karlquist.nu/se/categories/"
                 />
   </url><url>
-    <loc>https://dkrlq.github.io/se/</loc>
+    <loc>https://karlquist.nu/se/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dkrlq.github.io/"
+                href="https://karlquist.nu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="https://dkrlq.github.io/se/"
+                href="https://karlquist.nu/se/"
                 />
   </url><url>
-    <loc>https://dkrlq.github.io/se/series/</loc>
+    <loc>https://karlquist.nu/se/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dkrlq.github.io/series/"
+                href="https://karlquist.nu/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="https://dkrlq.github.io/se/series/"
+                href="https://karlquist.nu/se/series/"
                 />
   </url><url>
-    <loc>https://dkrlq.github.io/se/tags/</loc>
+    <loc>https://karlquist.nu/se/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dkrlq.github.io/tags/"
+                href="https://karlquist.nu/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="https://dkrlq.github.io/se/tags/"
+                href="https://karlquist.nu/se/tags/"
                 />
   </url>
 </urlset>
