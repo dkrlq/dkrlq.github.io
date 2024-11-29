@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Sajber</title>
-        <link>https://karlquist.nu/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>Recent content in Posts on Sajber</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Thu, 21 Nov 2024 10:33:05 +0100</lastBuildDate>
-        <atom:link href="https://karlquist.nu/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>First Post</title>
-            <link>https://karlquist.nu/posts/2024/11/first-post/</link>
+            <link>http://localhost:1313/posts/2024/11/first-post/</link>
             <pubDate>Thu, 21 Nov 2024 10:33:05 +0100</pubDate>
             
-            <guid>https://karlquist.nu/posts/2024/11/first-post/</guid>
+            <guid>http://localhost:1313/posts/2024/11/first-post/</guid>
             <description>&lt;p&gt;This is the first post.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>This is the first post.</p>
 ]]></content>
