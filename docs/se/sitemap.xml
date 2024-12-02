@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/se/categories/</loc>
+    <loc>https://motd.karlquist.nu/se/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://motd.karlquist.nu/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="http://localhost:1313/se/categories/"
+                href="https://motd.karlquist.nu/se/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/se/</loc>
+    <loc>https://motd.karlquist.nu/se/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://motd.karlquist.nu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="http://localhost:1313/se/"
+                href="https://motd.karlquist.nu/se/"
                 />
   </url><url>
-    <loc>http://localhost:1313/se/series/</loc>
+    <loc>https://motd.karlquist.nu/se/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://motd.karlquist.nu/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="http://localhost:1313/se/series/"
+                href="https://motd.karlquist.nu/se/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/se/tags/</loc>
+    <loc>https://motd.karlquist.nu/se/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://motd.karlquist.nu/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="http://localhost:1313/se/tags/"
+                href="https://motd.karlquist.nu/se/tags/"
                 />
   </url>
 </urlset>
