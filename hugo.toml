@@ -1,4 +1,4 @@
-baseURL = "https://karlquist.nu/"
+baseURL = "https://motd.karlquist.nu/"
 title   = "Sajber"
 languageCode = "en-us"
 theme = "hello-friend-ng"
